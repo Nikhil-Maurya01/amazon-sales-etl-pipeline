@@ -35,10 +35,6 @@ A production‑style **ETL pipeline** that extracts Amazon product sales data fr
 ### Overview
 This dashboard provides a comprehensive view of Amazon's sales performance after the ETL process. It highlights:
 
-- **Total Discounts**: $61M  
-- **Total Sales Amount**: $612M  
-- **Total Products Sold**: 10M  
-
 The visualizations include:
 - Category Ratings
 - Maximum Discount per Category
