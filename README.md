@@ -21,4 +21,29 @@ A production‑style **ETL pipeline** that extracts Amazon product sales data fr
 
 ---
 
-## 🧱 Architecture
+## ⚙️ Tech Stack
+- **Python 3.9+**
+- **PySpark** for distributed data processing
+- **PostgreSQL** for relational storage
+- **Power BI** for visualization
+- **JDBC Driver** for Spark-Postgres connectivity
+
+---
+
+## 📊 Amazon Sales Dashboard
+
+### Overview
+This dashboard provides a comprehensive view of Amazon's sales performance after the ETL process. It highlights:
+
+- **Total Discounts**: $61M  
+- **Total Sales Amount**: $612M  
+- **Total Products Sold**: 10M  
+
+The visualizations include:
+- Category Ratings
+- Maximum Discount per Category
+- Total Sales per Product
+- Best Seller Count per Category
+- Detailed Category Ratings
+
+![Dashboard_picture](Dashboard_picture.png)
