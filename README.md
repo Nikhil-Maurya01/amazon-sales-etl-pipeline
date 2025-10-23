@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=&logoColor=ffdd54)
 
 
-A production‑style **ETL pipeline** that extracts Amazon product sales data from **PostgreSQL**, cleans and standardizes it with **PySpark**, and writes a curated dataset back to PostgreSQL. The repo includes a **Streamlit dashboard** (at the end) for exploring KPIs, trends, and product performance.
+A production‑style **ETL pipeline** that extracts Amazon product sales data from **PostgreSQL**, cleans and standardizes it with **PySpark**, and writes a curated dataset back to PostgreSQL. The repo includes a **PowerBI dashboard** (at the end) for exploring KPIs, trends, and product performance.
 
 ---
 
